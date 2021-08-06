@@ -1,6 +1,6 @@
 # react_portfolio
 
-This is a single page web application built with React that I build to showcase my web projects.
+This is a single page web application built with React and present my new portfolio.
 
 
 ## Usage
